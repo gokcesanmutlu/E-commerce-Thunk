@@ -1,0 +1,12 @@
+body {
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+  margin: 0;
+  min-height: 100vh;
+}
+
+/* Bizim cssler */
+.active {
+  font-weight: bold;
+  text-shadow: 0 0 10px #535bf2;
+}
